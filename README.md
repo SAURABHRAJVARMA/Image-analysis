@@ -29,3 +29,15 @@ that combines **RGB images** and **numeric vegetation indices**.
 - GPU-accelerated (Tesla T4)
 
 ## 📂 Repository Structure
+
+## 🏁 Kaggle Submission
+The notebook generates `submission.csv` automatically at the end of execution.
+
+## ⚠️ Notes
+- Dataset not included (Kaggle competition rules)
+- Internet disabled for reproducibility
+
+---
+
+### 👤 Author
+Saurabh Raj Varma
