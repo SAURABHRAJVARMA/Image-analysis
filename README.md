@@ -36,8 +36,21 @@ The notebook generates `submission.csv` automatically at the end of execution.
 ## ⚠️ Notes
 - Dataset not included (Kaggle competition rules)
 - Internet disabled for reproducibility
+---
+## 📊 Figure Preview
+![MAE](mae_curve.png)
+![LOSS CURVE](loss_curve.png)
+![Learning Rate](learning_rate.png)
+---
+Conclusion
 
+The training results demonstrate that the model is robust, well-optimized, and generalizes effectively.
+The consistent behavior across loss and MAE metrics confirms the reliability of the training pipeline and the suitability of the chosen architecture and hyperparameters.
+
+This model is ready for evaluation, deployment, or further fine-tuning
 ---
 
 ### 👤 Author
 Saurabh Raj Varma
+
+
